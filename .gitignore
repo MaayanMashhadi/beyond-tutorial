@@ -130,3 +130,9 @@ dmypy.json
 
 # Vagrant
 .vagrant
+
+# nohup.out
+nohup.out
+
+# runserver - log
+runserver.log
