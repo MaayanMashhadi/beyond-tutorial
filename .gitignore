@@ -136,3 +136,6 @@ nohup.out
 
 # runserver - log
 runserver.log
+
+# database
+db.sqlite3
